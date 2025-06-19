@@ -30,9 +30,6 @@ Exploratory Data Analysis project on the popular [Netflix Movies and TV Shows da
 - Pie Chart: Top Genres
 - Heatmap: Ratings vs Content Type
 
-<img src="images/type_distribution.png" width="400">
-<img src="images/yearly_release_trend.png" width="400">
-
 ---
 
 ## 📌 Highlights
